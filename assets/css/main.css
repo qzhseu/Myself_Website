@@ -3445,9 +3445,9 @@ input, select, textarea {
 				width: 32rem;
 			}
 
-		#wrapper > section.intro > header > * {
+		/* #wrapper > section.intro > header > * {
 			width: 20rem;
-		}
+		} */
 
 		#wrapper > section.intro > header:before {
 			margin-left: calc(50vw - 10rem);
